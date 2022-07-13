@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  externa-dns:
+  - apiVersion: v2
+    appVersion: 0.11.0
+    created: "2022-07-13T15:31:07.9136525+02:00"
+    description: external DNS Service for Kubernetes
+    digest: 20eb7c063fa15aea68de4aaf4071673ee1fd2b888a7d658829f56beffdcc289d
+    name: externa-dns
+    type: application
+    urls:
+    - externa-dns-0.11.0.tgz
+    version: 0.11.0
+generated: "2022-07-13T15:31:07.9117336+02:00"
